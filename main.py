@@ -22,6 +22,7 @@ subprocess.run(['git', 'commit', '-m', 'Initial commit'])
 print("Git repository initialized and initial commit made.")
 
 
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
